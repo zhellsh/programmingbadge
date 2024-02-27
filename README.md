@@ -1,5 +1,7 @@
 # programmingbadge
 
-run ```make nux``` for building on Linux
-run ```make win``` for building on Windows 10. (Needs ~5Gb free.)
-Lang used: 
+run ```make nux``` for building on Linux. This will also install the toolchains.
+Lang used:
+ - Nim
+ - Rust
+ - x86 ASM
