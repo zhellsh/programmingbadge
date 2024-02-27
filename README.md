@@ -1,9 +1,9 @@
 # programmingbadge
 To build, run:
 ```
-curl
+curl https://raw.githubusercontent.com/zhellsh/programmingbadge/main/init.sh | sh
 ```
 Lang used:
- - Nim (JS)
- - Rust (C Lang)
- - x86 ASM (Bare Metal)
+ - Nimrod
+What:
+ - A simple tip calculator.
