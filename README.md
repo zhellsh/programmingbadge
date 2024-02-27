@@ -1,7 +1,9 @@
 # programmingbadge
-
-run ```make nux``` for building on Linux. This will also install the toolchains.
+To build, run:
+```
+curl
+```
 Lang used:
- - Nim
- - Rust
- - x86 ASM
+ - Nim (JS)
+ - Rust (C Lang)
+ - x86 ASM (Bare Metal)
